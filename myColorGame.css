@@ -1,0 +1,96 @@
+body {
+	background-color: #232323;
+}
+h1 {
+	color: white;
+	background-color: rgb(50, 150, 250);
+	margin-bottom: 0;
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+}
+#container {
+	margin: 0px auto;
+	max-width: 600px;
+}
+.square1 {
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.square2 {
+	width: 30%;
+	background: green;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.square3 {
+	width: 30%;
+	background: red;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.square4 {
+	width: 30%;
+	background: blue;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.square5 {
+	width: 30%;
+	background: pink;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.square6 {
+	width: 30%;
+	background: orange;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+.t{
+	font-size: 1.5rem;
+	padding: 10px;
+	margin-bottom: 0;
+}
+.b{
+	font-size: 1.5rem;
+	padding: 10px;
+	margin-top: 0;
+}
+p{
+	margin-bottom: 0;
+}
+.nav-item1 {
+	font-family: 'Roboto', sans-serif;
+}
+.nav-item2 {
+	font-family: 'Roboto', sans-serif;
+}
+.btn{
+	font-size: .8rem;
+ color: rgb(50, 150, 250)
+}
+.difficulty{
+	color: white;
+	background-color: rgb(50, 150, 250);
+}
+.nav-link{
+	font-size: .8rem;
+	float: right;
+}
+#guess{
+	font-size: .7rem;
+}
